@@ -39,7 +39,7 @@ The project is comparing the mortality rates of US citizens with the number of m
 * we tried to put every findings in the bar graph and also tried to analyse it in different aspeccts, as comparing it with the hospital type or insurance type or number of comorbidities or the state wise that, does it actually makes any difference in the recovery rate of the US citizens.
 * we have used heatmap to get an idea how some variables affecting the other variables.
 
-## conclusion and summary 
+## Conclusion and summary 
 
 * we concluded that the recovery rate for the US citizen doesn't actually affected by the number of medicinal sales or the government spending, it actually affected on the basis of the disease and not acutally on anything
 * In our dataset the data rows and columns are really less so, we can't actually say that correlation we did does it actually casuing causation or not because, the pearson correlation was just the introductory step to show the relationship between two variables.
