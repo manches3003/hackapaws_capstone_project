@@ -1,5 +1,5 @@
 # Short description of the project
-The project is comparing the mortality rates of US citizens with the number of medicinal sales from 2015-2025. We have used 2 different datasets one of the US death rate and the other of the medicinal sales over the years. We have used different data analytical operations like data cleansing, data visualisation and recording the final results and conclusion.
+The project is comparing the mortality rates of US citizens with the number of medicinal sales from 2020-2025. We have used 2 different datasets one of the US death rate and the other of the medicinal sales over the years. We have used different data analytical operations like data cleansing, data visualisation and recording the final results and conclusion.
 
 
 ## Data Sources
