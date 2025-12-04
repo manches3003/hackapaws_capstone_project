@@ -1,1 +1,31 @@
+# Ignore dataset files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
 
+# Ignore zipped data
+*.zip
+*.gz
+
+# Ignore notebook autosave/checkpoints
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment folders
+venv/
+.env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs
+*.log
